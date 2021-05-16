@@ -1,0 +1,14 @@
+[FTP]
+ftp_download_dir = c:/tmp/                        
+HOST = 10.28.23.128                                 
+USER = premspromsuser                               
+PASS = PPr0ms1tf
+[AZURE]
+server = sqlehqcbiqhitfae.database.windows.net  
+database = synehqcbiqhitfae                       
+container = raw
+target_folder = landing/prems_proms/         
+datalake_account_url =https://adlehqcbiqhitfaedl.blob.core.windows.net/    
+[keepass]
+title=ITF ftp user premsproms 
+username=premspromsuser
